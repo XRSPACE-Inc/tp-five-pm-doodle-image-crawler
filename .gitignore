@@ -1,0 +1,12 @@
+*.png
+*.jpg
+*.pyc
+*.mp3
+*.mp4
+*.wav
+*.env
+data
+info
+StudioDatasetsLibrary
+test
+img_collection*

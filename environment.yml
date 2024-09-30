@@ -1,0 +1,17 @@
+name: doodle-img-crawler
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - requests
+  - pillow
+  - selenium
+  - pip:
+    - requests
+    - bs4
+    - flickrapi
+    - pexels-api
+    - python-dotenv
+    - pexels-api-py
+    
